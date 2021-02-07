@@ -4,4 +4,5 @@ Notes about discussion from the reading group for the book [Road to Reality by R
 
 ## Contents
 
-1. [Chapter 3](20213101.md)
+1. [Chapter 3](20210131.md)
+2. [Chapter 4](20210206.md)
