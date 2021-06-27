@@ -12,3 +12,4 @@ Notes about discussion from the reading group for the book [Road to Reality by R
 6. [Chapter 6](20210221.md)
 7. [Chapter 7](20210228.md)
 8. [Chapter 8](20210321.md)
+9. [Chapter 9](20210627.md)
